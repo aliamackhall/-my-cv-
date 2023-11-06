@@ -5,6 +5,18 @@
 ---
 layout: default
 title: Alia Hall - Academic Portfolio
+|-- assets/css
+|    |-- style.scss
+|
+| -- layouts/
+|   |-- default.html
+|
+|-- teaching/
+|   |-- index.md
+|
+|-- _config.yml
+|
+|-- index.md
 ![Featured Image](/assets/featured-image.jpg)
 
 # Alia Hall
