@@ -9,4 +9,4 @@
 
 -Moreover, her current research interests include: Diversity, Equity, and Inclusion in Technical and Professional Communication; Active Empathetic Listening; and Social Justice Initiatives in Technical Communication. 
 
--Alia Hall is a McKnight Doctoral Fellowship recipient. 
+-Alia Hall is a McKnight Doctoral Fellowship recipient. ![Alt text](../../../Desktop/(featured-image.jpg).png)
