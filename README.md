@@ -19,7 +19,7 @@ title: Alia Hall - Academic Portfolio
 |-- index.md
 ![Featured Image](/assets/featured-image.jpg)
 
-Alia Hall
+-Alia Hall
 ## Texts and Technology Doctoral Scholar
 
 ### About Me
