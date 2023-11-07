@@ -3,3 +3,13 @@
 :-ms-fullscreen
 
 @import "{{ site.theme}}"
+header {
+    background: black;
+
+}
+
+header a.button {
+
+    background: green($color: #000000)
+}
+}
